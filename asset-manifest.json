@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal-wizard.git/static/css/main.d59462fb.css",
+    "main.js": "/modal-wizard.git/static/js/main.d51ad824.js",
+    "index.html": "/modal-wizard.git/index.html",
+    "main.d59462fb.css.map": "/modal-wizard.git/static/css/main.d59462fb.css.map",
+    "main.d51ad824.js.map": "/modal-wizard.git/static/js/main.d51ad824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59462fb.css",
+    "static/js/main.d51ad824.js"
+  ]
+}
