@@ -1,0 +1,79 @@
+.dropdwon {
+  width: 35%;
+  height: 2.5rem;
+
+  position: relative;
+  border: 1px solid gray;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+  font-family: "Nunito Sans", -apple-system, ".SFNSText-Regular",
+    "San Francisco", BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica,
+    Arial, sans-serifx;
+}
+
+.dropdown-container {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 5px 20px;
+}
+
+.dropdwon:hover {
+  border: 1px solid gray;
+}
+
+.dropdown-container-header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input {
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 15px;
+}
+.arrow-btn {
+  font-size: 14px;
+  width: 20px;
+  height: 20px;
+}
+.arrow-btn:hover {
+  background-color: rgb(212, 215, 215);
+}
+
+.dropdown-item {
+  /* display: none; */
+}
+
+.dropdown-item {
+  display: block;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  background-color: white;
+}
+.item-box {
+  width: 100%;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  font-size: 14px;
+  color: gray;
+  background-color: white;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.item-box:hover {
+  font-size: 15px;
+  cursor: pointer;
+  color: black;
+  border-bottom: 1px solid rgb(227, 221, 221);
+  background-color: #e5e4e4;
+}

@@ -1,0 +1,9 @@
+.alert-text {
+  font-size: 13px;
+  width: 60%;
+  flex-wrap: wrap;
+  color: #021d3d;
+  font-family: "Nunito Sans", -apple-system, ".SFNSText-Regular",
+    "San Francisco", BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica,
+    Arial, sans-serifx;
+}

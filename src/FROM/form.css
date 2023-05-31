@@ -1,0 +1,25 @@
+.form-container {
+  /* background-color: aquamarine; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  /* background-color: blue; */
+  height: 50%;
+  width: 80%;
+}
+.input {
+  padding: 5px 10px 5px 10px;
+  margin: 10px;
+  border: none;
+  outline: none;
+  background-color: aliceblue;
+}

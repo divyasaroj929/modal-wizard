@@ -1,0 +1,11 @@
+.progress-bar-container {
+  height: 3px;
+  width: 100%;
+  border: none;
+  background-color: #eaecf0;
+  margin-bottom: 10px;
+}
+.progress-bar-container div {
+  height: 100%;
+  background-color: #3e7afc;
+}
